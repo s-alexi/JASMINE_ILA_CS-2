@@ -1,7 +1,7 @@
 # JASMINE_PEREZ-REYNA-SAMSON_ILA_CS-2
 
 # Project Title
-"Rock, Paper, Scissors, and etc."
+"Rock, Paper, Scissors, and MORE!."
 
 ## Project Description
 This will be a simple python program to cure your boredom. Now in our opinion, Rock, Paper, Scissors is VERY very boring on its own. But what if we added a twist? This program will add spice and fun into the original game by adding more "characters".
