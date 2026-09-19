@@ -20,28 +20,35 @@ This will be a simple python program to cure your boredom. Now in our opinion, R
 - The "characters" you'll use
 
 ## Sample output
+
 ***GUIDE***
+
 **"ROCK PAPER SCISSORS AND ETC."**
+
 A. Classic Mode
 B. Lock-in Mode
 C. Guide
 D. Exit
 
-**"Guide"**
+"Ex : You picked" **"Guide"**
+
 Rock BEATS Paper
 Scissors BEATS Rock
 etc.
 etc.
 Press any key and enter to go back.
 
-***"MODES"***
+***"MODES Ex :"***
+
 **"ROCK, PAPER, SCISSORS AND ETC."**
+
 A. Classic Mode
 B. Lock-in Mode
 C. Guide
 D. Exit
 
 **Any mode** (Let's say you picked Classic)
+
 A. Paper
 B. Rock
 C. Scissors
@@ -51,6 +58,18 @@ E. etc.
 .
 .
 H. Go back
+
+**Any mode** (Let's say you picked Lock-in Mode)
+A. Paper
+B. Rock
+C. Scissors
+D. etc.            ***THE ETC. WILL BE REPLACED BY A CHARACTER IT WILL BE A PLACEHOLDER FOR NOW.***
+E. etc.
+.
+.
+.
+
+Lives : 3
 
 ## Authors
  - Khael Don Perez
