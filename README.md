@@ -33,7 +33,9 @@ C. Guide
 
 D. Exit
 
+
 **Ex : You picked "Guide"**
+
 
 Rock BEATS Paper
 
@@ -44,6 +46,7 @@ etc.
 etc.
 
 Press any key and enter to go back.
+
 
 **"MODES Ex :"**
 
@@ -57,6 +60,7 @@ C. Guide
 
 D. Exit
 
+ 
 **Any mode** (Let's say you picked Classic)
 
 A. Paper
