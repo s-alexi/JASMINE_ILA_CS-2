@@ -21,7 +21,6 @@ This will be a simple python program to cure your boredom. Now in our opinion, R
 
 ## Sample output
 
-***GUIDE***
 
 **"ROCK PAPER SCISSORS AND ETC."**
 
@@ -35,8 +34,9 @@ D. Exit
 
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 
-**Ex : You picked "Guide"**
+**Example : You picked "Guide"**
 
+**GUIDE**
 
 Rock BEATS Paper
 
@@ -50,7 +50,7 @@ Press any key and enter to go back.
 
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 
-**"MODES Ex :"**
+**"Modes Example :"**
 
 **"ROCK, PAPER, SCISSORS AND ETC."**
 
@@ -73,8 +73,6 @@ C. Scissors
 
 D. etc.            ***THE ETC. WILL BE REPLACED BY A CHARACTER IT WILL BE A PLACEHOLDER FOR NOW.***
 
-E. etc.
-
 .
 
 .
@@ -93,8 +91,6 @@ B. Rock
 C. Scissors
 
 D. etc.            ***THE ETC. WILL BE REPLACED BY A CHARACTER IT WILL BE A PLACEHOLDER FOR NOW.***
-
-E. etc.
 
 .
 
