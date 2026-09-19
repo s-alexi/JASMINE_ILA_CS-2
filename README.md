@@ -33,7 +33,7 @@ C. Guide
 
 D. Exit
 
-"Ex : You picked" **"Guide"**
+**Ex : You picked "Guide"**
 
 Rock BEATS Paper
 
@@ -45,7 +45,7 @@ etc.
 
 Press any key and enter to go back.
 
-***"MODES Ex :"***
+**"MODES Ex :"**
 
 **"ROCK, PAPER, SCISSORS AND ETC."**
 
