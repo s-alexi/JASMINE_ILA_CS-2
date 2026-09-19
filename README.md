@@ -61,6 +61,7 @@ B. Lock-in Mode
 C. Guide
 
 D. Exit
+
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
  
 **Any mode** (Let's say you picked Classic)
@@ -80,6 +81,7 @@ D. etc.            ***THE ETC. WILL BE REPLACED BY A CHARACTER IT WILL BE A PLAC
 .
 
 H. Go back
+
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 
 **Any mode** (Let's say you picked Lock-in Mode)
@@ -99,6 +101,7 @@ D. etc.            ***THE ETC. WILL BE REPLACED BY A CHARACTER IT WILL BE A PLAC
 .
 
 Lives : 3
+
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 
 ## Authors
