@@ -34,6 +34,7 @@ C. Guide
 D. Exit
 
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
+
 **Ex : You picked "Guide"**
 
 
@@ -48,6 +49,7 @@ etc.
 Press any key and enter to go back.
 
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
+
 **"MODES Ex :"**
 
 **"ROCK, PAPER, SCISSORS AND ETC."**
@@ -81,6 +83,7 @@ E. etc.
 
 H. Go back
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
+
 **Any mode** (Let's say you picked Lock-in Mode)
 
 A. Paper
@@ -101,6 +104,7 @@ E. etc.
 
 Lives : 3
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
+
 ## Authors
  - Khael Don Perez
  - Sophie Alexi Samson
