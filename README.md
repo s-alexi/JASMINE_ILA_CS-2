@@ -107,6 +107,9 @@ Lives : 3
 
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣
 
+## Flowchart:
+<img width="2048" height="1683" alt="817417172_850732328051789_3356175053856317007_n" src="https://github.com/user-attachments/assets/34670ae7-f5be-4244-9718-72896da0c3b5" />
+
 ## Authors
  - Khael Don Perez
  - Sophie Alexi Samson
