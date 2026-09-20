@@ -6,6 +6,9 @@
 ## Project Description
 This will be a simple python program to cure your boredom. Now in our opinion, Rock, Paper, Scissors is VERY very boring on its own. But what if we added a twist? This program will add spice and fun into the original game by adding more "characters".
 
+## Problem Statement
+Rock Paper Scissors is a simple and common game that can become boring when played repeatedly with only three choices. Because of this, our group plans to create a Python program that adds more options and choices to make the game more fun and interesting. The program will allow players to choose from different options while still following the basic idea of Rock Paper Scissors. This will make the game more interactive and give players more variety when playing.
+
 ## How to run the program
 - Make sure python is installed
 - Download the file "rpsetc.py" *Rock, Paper, Scissors, and MORE! shortened*
