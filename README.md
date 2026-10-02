@@ -20,18 +20,27 @@ This will be a simple python program to cure your boredom. Now in our opinion, R
 
 ## Example Output
 Rock, Paper, Scissors & MORE!
+
 A. Lock-in Mode
+
 B. Classic Mode
+
 C. Guide
+
 D. Exit
 
 Choice : B
 
 Choose a Character :
+
 A. Rock
+
 B. Paper
+
 C. Scissors
+
 D. etc.
+
 E. Exit
 
 Character : Paper
@@ -41,18 +50,29 @@ Does Paper beat Rock(enemy) ?
 Yes ! You won !
 
 Choose a Character :
+
 A. Rock
+
 B. Paper
+
 C. Scissors
+
 D. etc.
+
 E. Exit
 
 Character : E.
 
+Your Score is 1 !
+
 Rock, Paper, Scissors & MORE!
+
 A. Lock-in Mode
+
 B. Classic Mode
+
 C. Guide
+
 D. Exit
 
 Choice : D.
